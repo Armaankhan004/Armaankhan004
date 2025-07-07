@@ -48,7 +48,7 @@ A front-end project showcasing furniture collections with cart functionality, re
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/armaankhan04/)
 - 📧 Email: armaankhanrock04@gmail.com
 - 🌐 Portfolio: coming soon!
 
